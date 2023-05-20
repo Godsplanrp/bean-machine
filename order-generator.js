@@ -10,16 +10,20 @@ const Settings = {
 
 const Menu = {
 	// Combo Items:
-	"Wrap Combos:": {
+	"Main Combos:": {
 		header: true,
 	},
-	"Chicken Wrap Combo": {
-		price: 150,
-		items: ["Chicken Wrap", "Fries", "Soda"],
+	"Beef Sandwich Combo": {
+		price: 500,
+		items: ["Beef Sandwich", "Lemonade", "Dessert"],
 	},
-	"Goat Cheese Wrap Combo": {
-		price: 150,
-		items: ["Goat Cheese Wrap", "Fries", "Soda"],
+	"Turkey Sandwitch Combo": {
+		price: 500,
+		items: ["Turkey Sandwich", "Lemonade", "Dessert"],
+	},
+	"Salad Combo": {
+		price: 500,
+		items: ["Salad", "Vegi Smoothie", "Dessert"],
 	},
 	// Variable combos:
 	"Taco Lovers": {
@@ -27,111 +31,73 @@ const Menu = {
 		emoji: '🍬',
 		items: ["Soda", "Soda", "Soda", "Fries", "Fries", "Taco", "Taco", "Taco", "Taco", "Taco"],
 	},
-	"Sweet Tooth": {
-		price: 600,
-		emoji: '🧂',
-		items: ["Orangotang Ice Cream", "Meteorite Ice Cream", "Mocha Shake", "Mocha Shake"],
-	},
-	"Salty Seaman": {
-		price: 60,
-		emoji: '🦷',
-		items: ["Fries", "Fries", "Soda", "Soda"],
-	},
-	"Glory to the mymack": {
-		price: 1700,
-		emoji: '👑',
-		items: ["Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Fries", "Fries", "Fries", "Fries", "Fries", "Fries", "Fries", "Fries", "Soda", "Soda", "Soda", "Soda", "Soda", "Soda", "Soda", "Soda", "Meteorite Ice Cream", "Meteorite Ice Cream", "Meteorite Ice Cream", "Meteorite Ice Cream", "Meteorite Ice Cream", "Meteorite Ice Cream", "Meteorite Ice Cream", "Meteorite Ice Cream"],
-	},
 	// Burger Meals:
-	"Burger Meals:": {
+	"Other Meals:": {
 		header: true,
-	},
-	"Murder Meal": {
-		max: 4,
-		fileRenameException: true,
-		price: 1000,
-		noDiscount: true,
-		items: ["Murder Meal"],
 	},
 	"Heartstopper Meal": {
 		price: 325,
 		items: ["Heartstopper", "Fries", "Soda"],
 	},
-	"Double Shot Meal": {
-		price:250,
-		items: ["Double Shot", "Fries", "Soda"],
-	},
-	"Simply Burger Meal": {
-		price: 200,
-		items: ["Simply Burger", "Fries", "Soda"],
-	},
-	"Bleeder Meal": {
-		price: 255,
-		items: ["Bleeder", "Fries", "Soda"],
-	},
-	"The Prickly Meal": {
-		price: 205,
-		items: ["The Prickly", "Fries", "Soda"],
-	},
 	// Individual Items:
 	"Individual Items:": {
 		header: true,
 	},
-	"Heartstopper": {
+	"Espresso": {
 		price: 250,
-		items: ["Heartstopper"],
+		items: ["Espresso"],
 	},
-	"The Prickly": {
+	"House Blend": {
 		price: 150,
-		items: ["The Prickly"],
+		items: ["House Blend"],
 	},
-	"Double Shot": {
-		price: 200,
-		items: ["Double Shot"],
+	"Orange Smoothie": {
+		price: 250,
+		items: ["Orange Smoothie"],
 	},
-	"Taco": {
-		price: 100,
-		items: ["Taco"],
+	"Veg Smoothie": {
+		price: 250,
+		items: ["Veg Smoothie"],
 	},
-	"Bleeder": {
-		price: 200,
-		items: ["Bleeder"],
+	"Lemonade": {
+		price: 250,
+		items: ["Lemonade"],
 	},
-	"Simply Burger": {
-		price: 150,
-		items: ["Simply Burger"],
-	},
-	"Chicken Wrap": {
-		price: 100,
-		items: ["Chicken Wrap"],
-	},
-	"Goat Cheese Wrap": {
-		price: 100,
-		items: ["Goat Cheese Wrap"],
-	},
-	"Fries": {
+	"Coke": {
 		price: 50,
-		items: ["Fries"],
+		items: ["Coke"],
 	},
-	"Water": {
-		price: 5,
-		items: ["Water"],
+	"Turkey Sandwich": {
+		price: 150,
+		items: ["Turkey Sandwich"],
 	},
-	"Soda": {
-		price: 25,
-		items: ["Soda"]
+	"Beef Sandwich": {
+		price: 150,
+		items: ["Beef Sandwich"],
 	},
-	"Mocha Shake": {
+	"Salad": {
+		price: 150,
+		items: ["Salad"],
+	},
+	"Vegi Smoothie": {
+		price: 250,
+		items: ["Vegi Smoothie"],
+	},
+	"Carrot Cake": {
 		price: 200,
-		items: ["Mocha Shake"],
+		items: ["Carrot Cake"],
 	},
-	"Meteorite Ice Cream": {
+	"Chocolate Muffin": {
 		price: 350,
-		items: ["Meteorite Ice Cream"],
+		items: ["Chocolate Muffin"],
 	},
-	"Orangotang Ice Cream": {
+	"Blueberry Muffin": {
 		price: 350,
 		items: ["Orangotang Ice Cream"]
+	},
+	"Millionaire Shortbread": {
+		price: 350,
+		items: ["Millionaire Shortbread"]
 	},
 	"Delivery Fee": {
 		price: 35,
