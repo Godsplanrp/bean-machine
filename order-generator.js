@@ -17,7 +17,7 @@ const Menu = {
 		price: 500,
 		items: ["Beef Sandwich", "Lemonade", "Dessert"],
 	},
-	"Turkey Sandwitch Combo": {
+	"Turkey Sandwich Combo": {
 		price: 500,
 		items: ["Turkey Sandwich", "Lemonade", "Dessert"],
 	},
