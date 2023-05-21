@@ -55,9 +55,9 @@ const Menu = {
 		price: 250,
 		items: ["Orange Smoothie"],
 	},
-	"Veg Smoothie": {
+	"Vegi Smoothie": {
 		price: 250,
-		items: ["Veg Smoothie"],
+		items: ["Vegi Smoothie"],
 	},
 	"Lemonade": {
 		price: 250,
@@ -78,10 +78,6 @@ const Menu = {
 	"Salad": {
 		price: 150,
 		items: ["Salad"],
-	},
-	"Vegi Smoothie": {
-		price: 250,
-		items: ["Vegi Smoothie"],
 	},
 	"Carrot Cake": {
 		price: 200,
@@ -112,8 +108,8 @@ const Menu = {
 //}
 };
 const INDIVIDUAL_ITEMS = [
-	"Murder Meal", "Heartstopper", "Double Shot", "Bleeder", "Water", "Simply Burger", "Chicken Wrap", "Goat Cheese Wrap", "The Prickly",
-	"Fries", "Soda", "Meteorite Ice Cream", "Orangotang Ice Cream", "Mocha Shake", "Delivery Fee", "Taco",
+	"Espresso", "House Blend", "Orange Smoothie", "Vegi Smoothie", "Lemonade", "Coke", "Turkey Sandwich", "Beef Sandwich", "Salad",
+	"Carrot Cake", "Chocolate Muffin", "Blueberry Muffin", "Millionaire Shortbread", "Delivery Fee",
 ];
 
 const buttons = {
