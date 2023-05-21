@@ -89,7 +89,7 @@ const Menu = {
 	},
 	"Blueberry Muffin": {
 		price: 350,
-		items: ["Orangotang Ice Cream"]
+		items: ["Blueberry Muffin"]
 	},
 	"Millionaire Shortbread": {
 		price: 350,
