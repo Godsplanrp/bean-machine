@@ -27,7 +27,7 @@ const Menu = {
 	},
 	// Variable combos:
 	"Taco Lovers": {
-		price: 600,
+		price: 550,
 		emoji: '🍬',
 		items: ["Soda", "Soda", "Soda", "Fries", "Fries", "Taco", "Taco", "Taco", "Taco", "Taco"],
 	},
