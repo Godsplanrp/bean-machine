@@ -96,7 +96,7 @@ const Menu = {
 		items: ["Millionaire Shortbread"]
 	},
 	"Delivery Fee": {
-		price: 35,
+		price: 250,
 		items: ["Delivery Fee"]
 	},
 //"10 Pack BurgerBits": {
