@@ -143,6 +143,10 @@ const discounts = {
 		percent: .15,
 		desc: 'Blackout Sale (15% off)',
 	},
+	"EMS_Mech": {
+		percent: .25,
+		desc: 'EMS LEO or Mech (25% off)',
+	},
 };
 
 function getOccurrence(array, value) {
