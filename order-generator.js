@@ -32,7 +32,7 @@ const Menu = {
 		items: ["Espresso", "Espresso", "Turkey Sandwich", "Dessert", "Beef Sandwich" ],
 	},
 	// Burger Meals:
-	"Other Meals:": {
+	"LEO Meals:": {
 		header: true,
 	},
 	"LEO Meal": {
