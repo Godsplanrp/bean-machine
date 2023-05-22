@@ -26,10 +26,10 @@ const Menu = {
 		items: ["Salad", "Vegi Smoothie", "Dessert"],
 	},
 	// Variable combos:
-	"Taco Lovers": {
-		price: 550,
+	"Monday Special": {
+		price: 1000,
 		emoji: '🍬',
-		items: ["Soda", "Soda", "Soda", "Fries", "Fries", "Taco", "Taco", "Taco", "Taco", "Taco"],
+		items: ["Espresso", "Espresso", "Turkey Sandwich", "Fries", "Fries", "Taco", "Taco", "Taco", "Taco", "Taco"],
 	},
 	// Burger Meals:
 	"Other Meals:": {
