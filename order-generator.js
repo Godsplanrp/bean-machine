@@ -29,7 +29,7 @@ const Menu = {
 	"Monday Special": {
 		price: 1000,
 		emoji: '🍬',
-		items: ["Espresso", "Espresso", "Turkey Sandwich", "Dessert"],
+		items: ["Espresso", "Espresso", "Turkey Sandwich", "Dessert", "Beef Sandwich" ],
 	},
 	// Burger Meals:
 	"Other Meals:": {
