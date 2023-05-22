@@ -37,7 +37,7 @@ const Menu = {
 	},
 	"LEO Meal": {
 		price: 350,
-		items: ["Beef Sandwich", "Salad", "Lemonade", "Dessert"],
+		items: ["Beef Sandwich", "Salad", "Coke", "Coke", "Coke", "Dessert"], 
 	},
 	// Individual Items:
 	"Individual Items:": {
