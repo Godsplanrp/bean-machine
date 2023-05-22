@@ -35,9 +35,9 @@ const Menu = {
 	"Other Meals:": {
 		header: true,
 	},
-	"Heartstopper Meal": {
-		price: 325,
-		items: ["Heartstopper", "Fries", "Soda"],
+	"LEO Meal": {
+		price: 350,
+		items: ["Beef Sandwich", "Salad", "Lemonade", "Dessert"],
 	},
 	// Individual Items:
 	"Individual Items:": {
