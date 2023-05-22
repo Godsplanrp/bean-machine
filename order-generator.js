@@ -80,19 +80,19 @@ const Menu = {
 		items: ["Salad"],
 	},
 	"Carrot Cake": {
-		price: 200,
+		price: 150,
 		items: ["Carrot Cake"],
 	},
 	"Chocolate Muffin": {
-		price: 350,
+		price: 150,
 		items: ["Chocolate Muffin"],
 	},
 	"Blueberry Muffin": {
-		price: 350,
+		price: 150,
 		items: ["Blueberry Muffin"]
 	},
 	"Millionaire Shortbread": {
-		price: 350,
+		price: 150,
 		items: ["Millionaire Shortbread"]
 	},
 	"Delivery Fee": {
