@@ -31,6 +31,11 @@ const Menu = {
 		emoji: '🍬',
 		items: ["Espresso", "Espresso", "Turkey Sandwich", "Dessert", "Dessert", "Beef Sandwich", "Lemonade", "Lemonade" ],
 	},
+	"Tuesday Special": {
+		price: 500,
+		emoji: '🍬',
+		items: ["Espresso", "Espresso", "Espresso" ],
+	},
 	// Burger Meals:
 	"LEO Meals:": {
 		header: true,
