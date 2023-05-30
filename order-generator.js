@@ -131,10 +131,6 @@ const buttons = {
 };
 
 const discounts = {
-	"half_off": {
-		percent: .50,
-		desc: '50% Discount (BM Employees...)',
-	},
 	"5pcnt_off": {
 		percent: .05,
 		desc: '5% Discount (<font color="red">LIMITED TIME</font>)',
