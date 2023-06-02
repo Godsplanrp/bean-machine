@@ -31,11 +31,6 @@ const Menu = {
 		emoji: '🍬',
 		items: ["Espresso", "Espresso", "Turkey Sandwich", "Dessert", "Dessert", "Beef Sandwich", "Lemonade", "Lemonade" ],
 	},
-	"Tuesday Special": {
-		price: 500,
-		emoji: '☕️',
-		items: ["Espresso", "Espresso", "Espresso" ],
-	},
 	// Burger Meals:
 	"LEO Meals:": {
 		header: true,
@@ -49,7 +44,7 @@ const Menu = {
 		header: true,
 	},
 	"Espresso": {
-		price: 250,
+		price: 150,
 		items: ["Espresso"],
 	},
 	"House Blend": {
@@ -136,10 +131,7 @@ const buttons = {
 };
 
 const discounts = {
-	"5pcnt_off": {
-		percent: .05,
-		desc: '5% Discount (<font color="red">LIMITED TIME</font>)',
-	},
+	
 	"blackout": {
 		percent: .15,
 		desc: 'Blackout Sale (15% off)',
