@@ -25,29 +25,25 @@ const Menu = {
 		price: 400,
 		items: ["Salad", "Vegi Smoothie", "Dessert"],
 	},
-	"Espreso Meal Deal Combo": {
-		price: 500,
-		items: ["Espresso", "Espresso", "Beef Sandwich", "Dessert"],
-	},
+
 	// Variable combos:
 	"Monday Special": {
 		price: 1000,
-		emoji: '🍬',
+		emoji: '🥪',
 		items: ["Espresso", "Espresso", "Turkey Sandwich", "Dessert", "Dessert", "Beef Sandwich", "Lemonade", "Lemonade" ],
 	},
 	"Wednesday Espresso Special": {
 		price: 300,
-		emoji: '🍬',
+		emoji: '☕',
 		items: ["Espresso", "Espresso", "Espresso" ],
 	},
+	"Espreso Meal Deal Combo": {
+		price: 500,
+		emoji: '☕',
+		items: ["Espresso", "Espresso", "Beef Sandwich", "Dessert"],
+	},
 	// Burger Meals:
-	"LEO Meals:": {
-		header: true,
-	},
-	"LEO Meal": {
-		price: 350,
-		items: ["Beef Sandwich", "Salad", "Coke", "Coke", "Coke", "Dessert"], 
-	},
+
 	// Individual Items:
 	"Individual Items:": {
 		header: true,
