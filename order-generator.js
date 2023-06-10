@@ -49,23 +49,23 @@ const Menu = {
 		header: true,
 	},
 	"Espresso": {
-		price: 150,
+		price: 100,
 		items: ["Espresso"],
 	},
 	"House Blend": {
-		price: 150,
+		price: 75,
 		items: ["House Blend"],
 	},
 	"Orange Smoothie": {
-		price: 250,
+		price: 100,
 		items: ["Orange Smoothie"],
 	},
 	"Vegi Smoothie": {
-		price: 250,
+		price: 100,
 		items: ["Vegi Smoothie"],
 	},
 	"Lemonade": {
-		price: 250,
+		price: 100,
 		items: ["Lemonade"],
 	},
 	"Coke": {
@@ -73,31 +73,31 @@ const Menu = {
 		items: ["Coke"],
 	},
 	"Turkey Sandwich": {
-		price: 150,
+		price: 100,
 		items: ["Turkey Sandwich"],
 	},
 	"Beef Sandwich": {
-		price: 150,
+		price: 100,
 		items: ["Beef Sandwich"],
 	},
 	"Salad": {
-		price: 150,
+		price: 100,
 		items: ["Salad"],
 	},
 	"Carrot Cake": {
-		price: 150,
+		price: 100,
 		items: ["Carrot Cake"],
 	},
 	"Chocolate Muffin": {
-		price: 150,
+		price: 100,
 		items: ["Chocolate Muffin"],
 	},
 	"Blueberry Muffin": {
-		price: 150,
+		price: 100,
 		items: ["Blueberry Muffin"]
 	},
 	"Millionaire Shortbread": {
-		price: 150,
+		price: 100,
 		items: ["Millionaire Shortbread"]
 	},
 	"Delivery Fee": {
