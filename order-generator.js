@@ -76,6 +76,10 @@ const Menu = {
 		price: 100,
 		items: ["Turkey Sandwich"],
 	},
+	"BLT Sandwich": {
+		price: 100,
+		items: ["BLT Sandwich"],
+	},	
 	"Beef Sandwich": {
 		price: 100,
 		items: ["Beef Sandwich"],
