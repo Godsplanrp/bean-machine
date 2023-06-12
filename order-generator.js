@@ -14,15 +14,15 @@ const Menu = {
 		header: true,
 	},
 	"Beef Sandwich Combo": {
-		price: 400,
+		price: 225,
 		items: ["Beef Sandwich", "Lemonade", "Dessert"],
 	},
 	"Turkey Sandwich Combo": {
-		price: 400,
+		price: 225,
 		items: ["Turkey Sandwich", "Lemonade", "Dessert"],
 	},
 	"Salad Combo": {
-		price: 400,
+		price: 350,
 		items: ["Salad", "Vegi Smoothie", "Dessert"],
 	},
 
@@ -49,7 +49,7 @@ const Menu = {
 		header: true,
 	},
 	"Espresso": {
-		price: 100,
+		price: 150,
 		items: ["Espresso"],
 	},
 	"House Blend": {
@@ -57,11 +57,11 @@ const Menu = {
 		items: ["House Blend"],
 	},
 	"Orange Smoothie": {
-		price: 100,
+		price: 125,
 		items: ["Orange Smoothie"],
 	},
 	"Vegi Smoothie": {
-		price: 100,
+		price: 200,
 		items: ["Vegi Smoothie"],
 	},
 	"Lemonade": {
@@ -69,19 +69,23 @@ const Menu = {
 		items: ["Lemonade"],
 	},
 	"Coke": {
-		price: 50,
+		price: 25,
 		items: ["Coke"],
 	},
 	"Turkey Sandwich": {
-		price: 100,
+		price: 75,
 		items: ["Turkey Sandwich"],
 	},
+	"Ham Sandwich": {
+		price: 75,
+		items: ["Ham Sandwich"],
+	},
 	"BLT Sandwich": {
-		price: 100,
+		price: 75,
 		items: ["BLT Sandwich"],
 	},	
 	"Beef Sandwich": {
-		price: 100,
+		price: 75,
 		items: ["Beef Sandwich"],
 	},
 	"Salad": {
@@ -89,23 +93,23 @@ const Menu = {
 		items: ["Salad"],
 	},
 	"Carrot Cake": {
-		price: 100,
+		price: 75,
 		items: ["Carrot Cake"],
 	},
 	"Chocolate Muffin": {
-		price: 100,
+		price: 75,
 		items: ["Chocolate Muffin"],
 	},
 	"Blueberry Muffin": {
-		price: 100,
+		price: 75,
 		items: ["Blueberry Muffin"]
 	},
 	"Millionaire Shortbread": {
-		price: 100,
+		price: 75,
 		items: ["Millionaire Shortbread"]
 	},
 	"Delivery Fee": {
-		price: 250,
+		price: 125,
 		items: ["Delivery Fee"]
 	},
 //"10 Pack BurgerBits": {
