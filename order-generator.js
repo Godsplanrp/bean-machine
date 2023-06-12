@@ -122,7 +122,7 @@ const Menu = {
 };
 const INDIVIDUAL_ITEMS = [
 	"Espresso", "House Blend", "Orange Smoothie", "Vegi Smoothie", "Lemonade", "Coke", "Turkey Sandwich", "Beef Sandwich", "Salad",
-	"Carrot Cake", "Chocolate Muffin", "Blueberry Muffin", "Millionaire Shortbread", "Delivery Fee", "Dessert", "leo"
+	"Carrot Cake", "Chocolate Muffin", "Blueberry Muffin", "Millionaire Shortbread", "Delivery Fee", "Dessert", "BLT Sandwich", "Ham Sandwich",
 ];
 
 const buttons = {
@@ -145,9 +145,9 @@ const buttons = {
 
 const discounts = {
 	
-	"blackout": {
-		percent: .15,
-		desc: 'Blackout Sale (15% off)',
+	"Employee": {
+		percent: .25,
+		desc: 'Bean Machine (25% off)',
 	},
 	"EMS_Mech": {
 		percent: .25,
