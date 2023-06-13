@@ -32,7 +32,7 @@ const Menu = {
 		emoji: '🥪',
 		items: ["Espresso", "Espresso", "Turkey Sandwich", "Dessert", "Dessert", "Beef Sandwich", "Lemonade", "Lemonade" ],
 	},
-	"Wednesday Espresso Special": {
+	"Espresso Special": {
 		price: 300,
 		emoji: '☕',
 		items: ["Espresso", "Espresso", "Espresso" ],
