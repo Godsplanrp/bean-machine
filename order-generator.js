@@ -15,11 +15,19 @@ const Menu = {
 	},
 	"Beef Sandwich Combo": {
 		price: 225,
-		items: ["Beef Sandwich", "Lemonade", "Dessert"],
+		items: ["Beef Sandwich", "Coke", "Dessert"],
 	},
 	"Turkey Sandwich Combo": {
 		price: 225,
-		items: ["Turkey Sandwich", "Lemonade", "Dessert"],
+		items: ["Turkey Sandwich", "Coke", "Dessert"],
+	},
+	"Ham Sandwich Combo": {
+		price: 225,
+		items: ["Ham Sandwich", "Coke", "Dessert"],
+	},
+	"BLT Sandwich Combo": {
+		price: 225,
+		items: ["BLT Sandwich", "Coke", "Dessert"],
 	},
 	"Salad Combo": {
 		price: 350,
