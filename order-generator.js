@@ -47,7 +47,7 @@ const Menu = {
 	},
 	"Espresso Meal Deal Combo": {
 		price: 500,
-		emoji: '☕',
+		emoji: '🫘',
 		items: ["Espresso", "Espresso", "Coke", "Beef Sandwich", "Dessert"],
 	},
 	// Burger Meals:
