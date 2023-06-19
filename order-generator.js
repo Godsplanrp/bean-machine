@@ -15,19 +15,19 @@ const Menu = {
 	},
 	"Beef Sandwich Combo": {
 		price: 225,
-		items: ["Beef Sandwich", "Coke", "Dessert"],
+		items: ["Beef Sandwich", "Coke", "Coke", "Dessert"],
 	},
 	"Turkey Sandwich Combo": {
 		price: 225,
-		items: ["Turkey Sandwich", "Coke", "Dessert"],
+		items: ["Turkey Sandwich", "Coke", "Coke", "Dessert"],
 	},
 	"Ham Sandwich Combo": {
 		price: 225,
-		items: ["Ham Sandwich", "Coke", "Dessert"],
+		items: ["Ham Sandwich", "Coke", "Coke", "Dessert"],
 	},
 	"BLT Sandwich Combo": {
 		price: 225,
-		items: ["BLT Sandwich", "Coke", "Dessert"],
+		items: ["BLT Sandwich", "Coke", "Coke","Dessert"],
 	},
 	"Salad Combo": {
 		price: 350,
@@ -77,7 +77,7 @@ const Menu = {
 		items: ["Lemonade"],
 	},
 	"Coke": {
-		price: 25,
+		price: 50,
 		items: ["Coke"],
 	},
 	"Turkey Sandwich": {
