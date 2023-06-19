@@ -53,7 +53,7 @@ const Menu = {
 		items: ["Espresso"],
 	},
 	"House Blend": {
-		price: 75,
+		price: 100,
 		items: ["House Blend"],
 	},
 	"Orange Smoothie": {
@@ -73,23 +73,23 @@ const Menu = {
 		items: ["Coke"],
 	},
 	"Turkey Sandwich": {
-		price: 75,
+		price: 100,
 		items: ["Turkey Sandwich"],
 	},
 	"Ham Sandwich": {
-		price: 75,
+		price: 100,
 		items: ["Ham Sandwich"],
 	},
 	"BLT Sandwich": {
-		price: 75,
+		price: 100,
 		items: ["BLT Sandwich"],
 	},	
 	"Beef Sandwich": {
-		price: 75,
+		price: 100,
 		items: ["Beef Sandwich"],
 	},
 	"Salad": {
-		price: 100,
+		price: 125,
 		items: ["Salad"],
 	},
 	"Carrot Cake": {
