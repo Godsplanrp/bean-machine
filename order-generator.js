@@ -151,7 +151,7 @@ const Menu = {
 		items: ["Delivery Fee"]
 	},
 	"Box": {
-		price: 75,
+		price: 50,
 		items: ["Box"]
 	},
 //"10 Pack BurgerBits": {
