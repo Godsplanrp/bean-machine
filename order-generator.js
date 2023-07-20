@@ -60,26 +60,6 @@ const Menu = {
 		price: 150,
 		items: ["Espresso"],
 	},
-	"10 Espresso": {
-		price: 1500,
-		items: ["Espresso"],
-	},
-	"20 Espresso": {
-		price: 2000,
-		items: ["Espresso"],
-	},
-	"30 Espresso": {
-		price: 3000,
-		items: ["Espresso"],
-	},
-	"50 Espresso": {
-		price: 5000,
-		items: ["Espresso"],
-	},
-	"100 Espresso": {
-		price: 8500,
-		items: ["Espresso"],
-	},					
 	"House Blend": {
 		price: 100,
 		items: ["House Blend"],
