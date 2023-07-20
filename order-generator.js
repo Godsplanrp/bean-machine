@@ -147,8 +147,12 @@ const Menu = {
 		items: ["Millionaire Shortbread"]
 	},
 	"Delivery Fee": {
-		price: 125,
+		price: 1500,
 		items: ["Delivery Fee"]
+	},
+	"Box": {
+		price: 75,
+		items: ["Box"]
 	},
 //"10 Pack BurgerBits": {
  //  price: 1375,
@@ -160,7 +164,7 @@ const Menu = {
 };
 const INDIVIDUAL_ITEMS = [
 	"Espresso", "House Blend", "Orange Smoothie", "Vegi Smoothie", "Lemonade", "Coke", "Turkey Sandwich", "Beef Sandwich", "Salad",
-	"Carrot Cake", "Chocolate Muffin", "Blueberry Muffin", "Millionaire Shortbread", "Delivery Fee", "Dessert", "BLT Sandwich", "Ham Sandwich",
+	"Carrot Cake", "Chocolate Muffin", "Blueberry Muffin", "Millionaire Shortbread", "Delivery Fee", "Dessert", "BLT Sandwich", "Ham Sandwich", "Box",
 ];
 
 const buttons = {
