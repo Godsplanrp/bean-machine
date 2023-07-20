@@ -45,37 +45,37 @@ const Menu = {
 		emoji: '☕',
 		items: ["Espresso", "Espresso", "Espresso" ],
 	},
-	"10 Espresso Combo": {
+	"Ten Espresso Combo": {
 		price: 1500,
 		emoji: '🫘',
 		items: ["Espresso"],
 	},
-	"20 Espresso Combo": {
+	"Twenthy Espresso Combo": {
 		price: 2000,
 		emoji: '🫘',
 		items: ["Espresso"],
 	},
-	"30 Espresso Combo": {
+	"Thrity Espresso Combo": {
 		price: 3000,
 		emoji: '🫘',
 		items: ["Espresso"],
 	},
-	"40 Espresso Combo": {
+	"Forty Espresso Combo": {
 		price: 4000,
 		emoji: '🫘',
 		items: ["Espresso"],
 	},	
-	"50 Espresso Combo": {
+	"Fifty Espresso Combo": {
 		price: 5000,
 		emoji: '🫘',
 		items: ["Espresso"],
 	},	
-	"80 Espresso Combo": {
+	"Eighty Espresso Combo": {
 		price: 7000,
 		emoji: '🫘',
 		items: ["Espresso"],
 	},
-	"100 Espresso Combo": {
+	"Hundo Espresso Combo": {
 		price: 8500,
 		emoji: '🫘',
 		items: ["Espresso"],
