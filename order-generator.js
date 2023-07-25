@@ -30,7 +30,7 @@ const Menu = {
 		items: ["BLT Sandwich", "Coke", "Coke","Dessert"],
 	},
 	"Keefers Special": {
-		price: 250,
+		price: 275,
 		items: ["Lemonade", "Beef Sandwich", "Carrot Cake", "Carrot Cake"],
 	},
 	"Ditty's Special": {
