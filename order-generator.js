@@ -40,38 +40,6 @@ const Menu = {
 		emoji: '🥪',
 		items: ["Espresso", "Espresso", "Turkey Sandwich", "Dessert", "Dessert", "Beef Sandwich", "Lemonade", "Lemonade" ],
 	},
-	"Espresso Special": {
-		price: 300,
-		items: ["Espresso", "Espresso", "Espresso" ],
-	},
-	"Ten Espresso Combo": {
-		price: 1500,
-		items: ["Espresso"],
-	},
-	"Twenthy Espresso Combo": {
-		price: 2000,
-		items: ["Espresso"],
-	},
-	"Thrity Espresso Combo": {
-		price: 3000,
-		items: ["Espresso"],
-	},
-	"Forty Espresso Combo": {
-		price: 4000,
-		items: ["Espresso"],
-	},	
-	"Fifty Espresso Combo": {
-		price: 5000,
-		items: ["Espresso"],
-	},	
-	"Eighty Espresso Combo": {
-		price: 7000,
-		items: ["Espresso"],
-	},
-	"Hundo Espresso Combo": {
-		price: 8500,
-		items: ["Espresso"],
-	},
 	// Burger Meals:
 
 	// Individual Items:
