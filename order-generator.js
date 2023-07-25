@@ -29,9 +29,13 @@ const Menu = {
 		price: 225,
 		items: ["BLT Sandwich", "Coke", "Coke","Dessert"],
 	},
-	"Salad Combo": {
-		price: 350,
-		items: ["Salad", "Vegi Smoothie", "Dessert"],
+	"Keefers Special": {
+		price: 250,
+		items: ["Lemonade", "Beef Sandwich", "Carrot Cake", "Carrot Cake"],
+	},
+	"Ditty's Special": {
+		price: 400,
+		items: ["Espresso", "Vegi Smoothie", "Turkey Sandwich", "Carrot Cake"],
 	},
 
 	// Variable combos:
