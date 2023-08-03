@@ -33,7 +33,7 @@ const Menu = {
 		price: 275,
 		items: ["Lemonade", "Beef Sandwich", "Carrot Cake", "Carrot Cake"],
 	},
-	"Ditty's Special": {
+	"Dittys Special": {
 		price: 400,
 		items: ["Espresso", "Vegi Smoothie", "Turkey Sandwich", "Carrot Cake"],
 	},
@@ -113,10 +113,6 @@ const Menu = {
 	"Delivery Fee": {
 		price: 1500,
 		items: ["Delivery Fee"]
-	},
-	"Box": {
-		price: 50,
-		items: ["Box"]
 	},
 //"10 Pack BurgerBits": {
  //  price: 1375,
