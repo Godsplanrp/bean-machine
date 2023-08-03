@@ -27,7 +27,7 @@ const Menu = {
 	},
 	"BLT Sandwich Combo": {
 		price: 300,
-		items: ["BLT Sandwich", "Coke", "Coke","Dessert"],
+		items: ["BLT Sandwich", "Coke", "Coke", "Dessert"],
 	},
 	"Keefers Special": {
 		price: 300,
@@ -36,7 +36,7 @@ const Menu = {
 	"Dittys Special": {
 		price: 400,
 		items: ["Espresso", "Vegi Smoothie", "Turkey Sandwich", "Carrot Cake"],
-	},
+	},	
 
 	// Variable combos:
 	"Monday Special": {
@@ -44,7 +44,11 @@ const Menu = {
 		emoji: '🥪',
 		items: ["Espresso", "Espresso", "Turkey Sandwich", "Dessert", "Dessert", "Beef Sandwich", "Lemonade", "Lemonade" ],
 	},
-	// Burger Meals:
+	// Bean Meals:
+	"Diamond Meal": {
+		price: 5000,
+		items: ["Espresso", "Espresso", "Espresso", "Espresso", "Espresso", "Orange Smoothie", "Orange Smoothie", "Orange Smoothie", "Orange Smoothie", "Orange Smoothie", "Millionaire Shortbread", "Millionaire Shortbread", "Millionaire Shortbread", "Millionaire Shortbread", "Millionaire Shortbread", "BLT Sandwich", "BLT Sandwich", "BLT Sandwich", "BLT Sandwich", "BLT Sandwich", ],
+	},
 
 	// Individual Items:
 	"Individual Items:": {
