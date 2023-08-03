@@ -14,23 +14,23 @@ const Menu = {
 		header: true,
 	},
 	"Beef Sandwich Combo": {
-		price: 225,
+		price: 300,
 		items: ["Beef Sandwich", "Coke", "Coke", "Dessert"],
 	},
 	"Turkey Sandwich Combo": {
-		price: 225,
+		price: 300,
 		items: ["Turkey Sandwich", "Coke", "Coke", "Dessert"],
 	},
 	"Ham Sandwich Combo": {
-		price: 225,
+		price: 300,
 		items: ["Ham Sandwich", "Coke", "Coke", "Dessert"],
 	},
 	"BLT Sandwich Combo": {
-		price: 225,
+		price: 300,
 		items: ["BLT Sandwich", "Coke", "Coke","Dessert"],
 	},
 	"Keefers Special": {
-		price: 275,
+		price: 300,
 		items: ["Lemonade", "Beef Sandwich", "Carrot Cake", "Carrot Cake"],
 	},
 	"Dittys Special": {
