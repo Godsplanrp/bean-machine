@@ -128,7 +128,7 @@ const Menu = {
 };
 const INDIVIDUAL_ITEMS = [
 	"Espresso", "House Blend", "Orange Smoothie", "Vegi Smoothie", "Lemonade", "Coke", "Turkey Sandwich", "Beef Sandwich", "Salad",
-	"Carrot Cake", "Chocolate Muffin", "Blueberry Muffin", "Millionaire Shortbread", "Delivery Fee", "Dessert", "BLT Sandwich", "Ham Sandwich", "Box", "diamond",
+	"Carrot Cake", "Chocolate Muffin", "Blueberry Muffin", "Millionaire Shortbread", "Delivery Fee", "Dessert", "BLT Sandwich", "Ham Sandwich", "Box", "Diamond",
 ];
 
 const buttons = {
