@@ -46,19 +46,20 @@ const Menu = {
 	},
 	"Diamond Meal": {
 		price: 2500,
-		emoji: '💎'
+		emoji: '💎',
 		items: ["Espresso", "Espresso", "Espresso", "Espresso", "Espresso", "Orange Smoothie", "Orange Smoothie", "Orange Smoothie", "Orange Smoothie", "Orange Smoothie", "Millionaire Shortbread", "Millionaire Shortbread", "Millionaire Shortbread", "Millionaire Shortbread", "Millionaire Shortbread", "BLT Sandwich", "BLT Sandwich", "BLT Sandwich", "BLT Sandwich", "BLT Sandwich" ],
 	},
 	"Ruby Meal": {
 		price: 2500,
-		emoji: '👑'
+		emoji: '👑',
 		items: ["Espresso", "Espresso", "Espresso", "Espresso", "Espresso", "Lemonade", "Lemonade", "Lemonade", "Lemonade", "Lemonade", "Carrot Cake", "Carrot Cake", "Carrot Cake", "Carrot Cake", "Carrot Cake", "Beef Sandwich", "Beef Sandwich", "Beef Sandwich", "Beef Sandwich", "Beef Sandwich" ],
 	},
 	"Breakfast Special": {
 		price: 1500,
-		emoji: '🥞'
+		emoji: '🥞',
 		items: ["Espresso", "Espresso", "Espresso", "Blueberry Muffin", "Blueberry Muffin", "Blueberry Muffin", "Blueberry Muffin", "Blueberry Muffin", "Blueberry Muffin", "Orange Smoothie", "Orange Smoothie", "Orange Smoothie"  ],
-	},			
+	},	
+			
 	// Bean Meals:
 
 
