@@ -42,13 +42,25 @@ const Menu = {
 	"Monday Special": {
 		price: 700,
 		emoji: '🥪',
-		items: ["Espresso", "Espresso", "Turkey Sandwich", "Dessert", "Dessert", "Beef Sandwich", "Lemonade", "Lemonade" ],
+		items: ["Espresso", "Espresso", "Turkey Sandwich", "Dessert", "Dessert", "Beef Sandwich", "Lemonade", "Lemonade" ],	
 	},
-	// Bean Meals:
 	"Diamond Meal": {
-		price: 5000,
+		price: 2500,
+		emoji: '💎'
 		items: ["Espresso", "Espresso", "Espresso", "Espresso", "Espresso", "Orange Smoothie", "Orange Smoothie", "Orange Smoothie", "Orange Smoothie", "Orange Smoothie", "Millionaire Shortbread", "Millionaire Shortbread", "Millionaire Shortbread", "Millionaire Shortbread", "Millionaire Shortbread", "BLT Sandwich", "BLT Sandwich", "BLT Sandwich", "BLT Sandwich", "BLT Sandwich", ],
 	},
+	"Ruby Meal": {
+		price: 2500,
+		emoji: '👑'
+		items: ["Espresso", "Espresso", "Espresso", "Espresso", "Espresso", "Lemonade", "Lemonade", "Lemonade", "Lemonade", "Lemonade", "Carrot Cake", "Carrot Cake", "Carrot Cake", "Carrot Cake", "Carrot Cake", "Beef Sandwich", "Beef Sandwich", "Beef Sandwich", "Beef Sandwich", "Beef Sandwich", ],
+	},
+	"Breakfast Special": {
+		price: 1500,
+		emoji: '🥞'
+		items: ["Espresso", "Espresso", "Espresso", "Blueberry Muffin", "Blueberry Muffin", "Blueberry Muffin", "Blueberry Muffin", "Blueberry Muffin", "Blueberry Muffin", "Orange Smoothie", "Orange Smoothie", "Orange Smoothie",  ],
+	},			
+	// Bean Meals:
+
 
 	// Individual Items:
 	"Individual Items:": {
