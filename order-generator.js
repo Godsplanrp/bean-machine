@@ -40,7 +40,7 @@ const Menu = {
 
 	// Variable combos:
 	"Monday Special": {
-		price: 700,
+		price: 1500,
 		emoji: '🥪',
 		items: ["Espresso", "Espresso", "Turkey Sandwich", "Dessert", "Dessert", "Beef Sandwich", "Lemonade", "Lemonade" ],	
 	},
