@@ -39,10 +39,10 @@ const Menu = {
 	},	
 
 	// Variable combos:
-	"Monday Special": {
-		price: 1500,
+	"Labor Day Special": {
+		price: 1000,
 		emoji: '🥪',
-		items: ["Espresso", "Espresso", "Turkey Sandwich", "Dessert", "Dessert", "Beef Sandwich", "Lemonade", "Lemonade" ],	
+		items: ["Espresso", "Espresso", "Espresso", "Espresso", "Espresso", "Espresso", "Turkey Sandwich", "Turkey Sandwich", "Turkey Sandwich", "Turkey Sandwich", "Turkey Sandwich", "Blueberry Muffin", "Blueberry Muffin", "Blueberry Muffin", "Blueberry Muffin", "Blueberry Muffin"],	
 	},
 	"Diamond Meal": {
 		price: 2500,
