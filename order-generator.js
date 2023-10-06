@@ -13,37 +13,16 @@ const Menu = {
 	"Main Combos:": {
 		header: true,
 	},
-	"Beef Sandwich Combo": {
+	"Sandwich Combo": {
 		price: 300,
-		items: ["Beef Sandwich", "Coke", "Coke", "Dessert"],
-	},
-	"Turkey Sandwich Combo": {
-		price: 300,
-		items: ["Turkey Sandwich", "Coke", "Coke", "Dessert"],
-	},
-	"Ham Sandwich Combo": {
-		price: 300,
-		items: ["Ham Sandwich", "Coke", "Coke", "Dessert"],
-	},
-	"BLT Sandwich Combo": {
-		price: 300,
-		items: ["BLT Sandwich", "Coke", "Coke", "Dessert"],
-	},
-	"Keefers Special": {
-		price: 300,
-		items: ["Lemonade", "Beef Sandwich", "Carrot Cake", "Carrot Cake"],
+		items: ["Beef Sandwich", "Lemonade", "Lemonade", "Dessert"],
 	},
 	"Dittys Special": {
-		price: 400,
-		items: ["Espresso", "Vegi Smoothie", "Turkey Sandwich", "Carrot Cake"],
+		price: 450,
+		items: ["Lemonade", "Vegi Smoothie", "Vegi Smoothie", "Turkey Sandwich", "Carrot Cake"],
 	},	
 
 	// Variable combos:
-	"Labor Day Special": {
-		price: 1000,
-		emoji: '🥪',
-		items: ["Espresso", "Espresso", "Espresso", "Espresso", "Espresso", "Espresso", "Turkey Sandwich", "Turkey Sandwich", "Turkey Sandwich", "Turkey Sandwich", "Turkey Sandwich", "Blueberry Muffin", "Blueberry Muffin", "Blueberry Muffin", "Blueberry Muffin", "Blueberry Muffin"],	
-	},
 	"Diamond Meal": {
 		price: 2500,
 		emoji: '💎',
