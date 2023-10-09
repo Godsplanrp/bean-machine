@@ -51,7 +51,7 @@ const Menu = {
 		items: ["Espresso"],
 	},
 	"House Blend": {
-		price: 100,
+		price: 125,
 		items: ["House Blend"],
 	},
 	"Orange Smoothie": {
@@ -59,7 +59,7 @@ const Menu = {
 		items: ["Orange Smoothie"],
 	},
 	"Vegi Smoothie": {
-		price: 200,
+		price: 125,
 		items: ["Vegi Smoothie"],
 	},
 	"Lemonade": {
