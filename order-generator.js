@@ -47,11 +47,11 @@ const Menu = {
 		header: true,
 	},
 	"Espresso": {
-		price: 150,
+		price: 125,
 		items: ["Espresso"],
 	},
 	"House Blend": {
-		price: 125,
+		price: 150,
 		items: ["House Blend"],
 	},
 	"Orange Smoothie": {
